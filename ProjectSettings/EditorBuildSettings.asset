@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 29eb090fa893d7d46a12ad3b94bae57e
+  - enabled: 1
+    path: Assets/Scenes/CutsceneScene.unity
+    guid: f133e11f1b483784795b1dda587d83ee
+  - enabled: 1
+    path: Assets/Scenes/Wake Up, Jim!.unity
+    guid: 1809cc7b7f0d04046a9e126cc630d83c
+  - enabled: 1
+    path: Assets/Scenes/dreamCutscene.unity
+    guid: 9b31c087335be004b9a6469a8d675762
+  - enabled: 1
+    path: Assets/Scenes/DreamWorld.unity
+    guid: ec9a1cf249e4352448e9e0c35259ed45
+  - enabled: 1
+    path: Assets/Scenes/badEnding.unity
+    guid: 76fe210993505c94c859529b845d5b28
+  - enabled: 1
+    path: Assets/Scenes/goodEnding.unity
+    guid: 6a9352f51d4e21546a820fad4ed20db0
+  m_configObjects: {}
